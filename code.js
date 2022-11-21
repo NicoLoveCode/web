@@ -17,4 +17,4 @@ btn3 = document.getElementById('info')
  btn.addEventListener('click', () => {
   window.open('https://nicolovecode.github.io/info-page/', '_blank');
  })
-
+//www
