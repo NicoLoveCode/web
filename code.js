@@ -1,11 +1,11 @@
-btn1 = document.getElementById('project')
+/*btn = document.getElementById('project')
   btn.addEventListener('click', () => {
-    window.open('https://github.com/NicoLoveCode', '_blank');
+    open('https://github.com/NicoLoveCode', '_blank');
   })
 
-btn2 = document.getElementById('form')
+btn = document.getElementById('form')
  btn.addEventListener('click', () => {
-  window.open('https://nicolovecode.github.io/page2/', '_blank');
+  open('https://nicolovecode.github.io/page2/', '_blank');
  })
 
 // btn = document.getElementById('other')
@@ -13,8 +13,10 @@ btn2 = document.getElementById('form')
   // alert('you clicked the other button')
 // })
 
-btn3 = document.getElementById('info')
+btn = document.getElementById('info')
  btn.addEventListener('click', () => {
-  window.open('https://nicolovecode.github.io/info-page/', '_blank');
+  open('', '_blank');
  })
-//www
+
+*/
+
